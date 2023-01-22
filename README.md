@@ -1,2 +1,15 @@
 # Run2
-echo "# Run2.py" >> README.md  git init  git add README.md  git commit -m "first commit"  git branch -M main  git remote add Origin https://github.com/HaikalXWibuTzy/Run2.py. git  git push -u asal utama
+
+$ apt update -y && apt upgrade -y
+
+$ pkg install git
+
+$ pkg instal python3
+
+$ git clone https://github.com/HaikalXWibuTzy/Run2 
+
+$ cd Run2
+
+$ pip3 install -r requirements.txt
+
+$ python3 Run2.py
